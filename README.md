@@ -13,7 +13,7 @@ Lista de atividades de um desenvolvedor(a) Jr em seu primeiro dia na empresa Cap
 
 Atividade solicitada pelo Tech Manager Fernando.
 
- https://gameoflifebydaylang.surge.sh
+https://listacaptalys-dayane.surge.sh
 
 **********
 
